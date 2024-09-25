@@ -9,6 +9,8 @@ int main()
     {
         j+=i;
     }
+    printf("fuck you apex!");
 
     return 0;
+
 }
